@@ -1,0 +1,88 @@
+
+graph G {
+fontname="Helvetica,Arial,sans-serif"
+node [fontname="Helvetica,Arial,sans-serif"]
+edge [fontname="Helvetica,Arial,sans-serif"]
+
+    AP [shape=ellipse,color=blue,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+    AAP [shape=ellipse,color=red,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+
+    AM [shape=ellipse,color=blue,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+
+    AAM [shape=ellipse,color=red,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+
+    PP [shape=ellipse,color=blue,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+
+    MM [shape=ellipse,color=red,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+
+    YO [shape=ellipse,color=red,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+
+    HO [shape=ellipse,color=blue,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+
+    HA [shape=ellipse,color=red,style=bold,label=<
+        <table cellspacing="0" border="0" cellborder="1">
+            <tr><td><img src="images/foto.png" /></td></tr>
+            <tr><td>"Nombre Abuelo Paterno"</td></tr>
+            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+        </table>
+    >];
+
+    AP -- PP;
+    AAP -- PP;
+    AM -- MM;
+    AAM -- MM;
+    PP -- YO;
+    MM -- YO;
+    PP -- HO;
+    MM -- HO;
+    PP -- HA;
+    MM -- HA;
+}
