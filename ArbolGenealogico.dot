@@ -6,72 +6,72 @@ edge [fontname="Helvetica,Arial,sans-serif"]
 
     AP [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoAP.jpg" /></td></tr>
+            <tr><td>"Guillermo"</td></tr>
+            <tr><td>"03/07/1948 CDMX"</td></tr>
         </table>
     >];
     AAP [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoAAP.jpg" /></td></tr>
+            <tr><td>"Concepción"</td></tr>
+            <tr><td>"04/08/1955 León,Gto"</td></tr>
         </table>
     >];
 
     AM [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoAM.jpg" /></td></tr>
+            <tr><td>"Arturo"</td></tr>
+            <tr><td>"05/09/1952 Monterrey,NL"</td></tr>
         </table>
     >];
 
     AAM [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoAAM.jpg" /></td></tr>
+            <tr><td>"Patricia"</td></tr>
+            <tr><td>"06/10/1960 Torreón,Coahuila"</td></tr>
         </table>
     >];
 
     PP [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoPP.jpg" /></td></tr>
+            <tr><td>"Gustavo"</td></tr>
+            <tr><td>"07/11/1975 CDMX"</td></tr>
         </table>
     >];
 
     MM [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoMM.jpg" /></td></tr>
+            <tr><td>"Cecilia"</td></tr>
+            <tr><td>"07/11/1980 Monterrey,NL"</td></tr>
         </table>
     >];
 
     YO [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoYO.jpg" /></td></tr>
+            <tr><td>"Alejandro(Yo)"</td></tr>
+            <tr><td>"25/05/2001 Veracruz"</td></tr>
         </table>
     >];
 
     HO [shape=ellipse,color=blue,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoHO.jpg" /></td></tr>
+            <tr><td>"Roberto"</td></tr>
+            <tr><td>"13/05/1997 Monterrey, NL"</td></tr>
         </table>
     >];
 
     HA [shape=ellipse,color=red,style=bold,label=<
         <table cellspacing="0" border="0" cellborder="1">
-            <tr><td><img src="images/foto.png" /></td></tr>
-            <tr><td>"Nombre Abuelo Paterno"</td></tr>
-            <tr><td>"fecha de nacimiento Lugar de Nacimiento"</td></tr>
+            <tr><td><img src="images/fotoHA.jpg" /></td></tr>
+            <tr><td>"Marisela"</td></tr>
+            <tr><td>"14/06/2015 CDMX"</td></tr>
         </table>
     >];
 
